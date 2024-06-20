@@ -1,0 +1,369 @@
+GAME START
+
+Filelog name:1.
+Player number:4.
+Initial card number:4.
+Desk of card(52cards each):2.
+Game round:3.
+ROUND1
+
+initilize...
+shuffling...
+Clubs Ace   Spades Ace   Diamonds 8  Clubs King  Clubs 6  Spades King  Diamonds 10  Clubs 9  Diamonds 6  Spades Jack  Spades Jack  Diamonds 2  Diamonds 6  Hearts 5  Diamonds 5  Clubs 9  Spades 4  Spades 7  Clubs 5  Clubs Jack  Clubs 7  Hearts 10  Clubs 3  Clubs 10  Clubs 7  Clubs 4  Clubs 6  Hearts 2  Hearts Jack  Diamonds Queen Hearts Queen Spades 7  Clubs 3  Diamonds King  Hearts 2  Diamonds 9  Spades 2  Clubs Ace   Diamonds Queen Clubs Queen Hearts 6  Hearts 9  Spades Queen Clubs 8  Diamonds 4  Diamonds 3  Hearts 7  Spades 9  Clubs 2  Diamonds 5  Spades 9  Clubs King  Spades 2  Spades Queen Hearts Queen Spades 5  Spades King  Diamonds 9  Spades 3  Spades 10  Hearts 4  Clubs Jack  Clubs 4  Spades 8  Spades 8  Hearts 3  Diamonds Ace   Diamonds 3  Hearts 5  Spades Ace   Clubs 8  Hearts 6  Hearts 9  Diamonds Ace   Hearts 10  Diamonds 8  Spades 6  Hearts Jack  Hearts 7  Diamonds Jack  Diamonds 2  Hearts King  Diamonds 4  Diamonds 7  Hearts 8  Hearts Ace   Hearts 4  Clubs Queen Hearts 8  Clubs 10  Clubs 5  Diamonds 10  Hearts King  Diamonds 7  Spades 3  Spades 4  Spades 5  Spades 6  Hearts 3  Clubs 2  Spades 10  Diamonds King  Hearts Ace   Diamonds Jack  
+dealing with cards...
+Player1:Diamonds 6  Diamonds 6  Clubs 6  Clubs Ace   
+Player2:Spades Jack  Spades King  Spades Ace   Hearts 5  
+Player3:Spades Jack  Diamonds 5  Diamonds 8  Diamonds 10  
+Player4:Diamonds 2  Clubs 9  Clubs 9  Clubs King  
+deciding the first one...
+Player1:Spades 4  
+Player2:Spades 7  
+Player3:Clubs 5  
+Player4:Clubs Jack  
+start at player4
+.start at card:Clubs 7  
+player4 plays:Clubs 9  
+player4:Diamonds 2  Clubs 9  Clubs King  
+player1 plays:Clubs 6  
+player1:Diamonds 6  Diamonds 6  Clubs Ace   
+player2 draw card:Hearts 10  
+player2:Spades Jack  Spades King  Spades Ace   Hearts 5  Hearts 10  
+player3 draw card:Clubs 3  
+player3:Spades Jack  Diamonds 5  Diamonds 8  Diamonds 10  Clubs 3  
+player4 plays:Clubs 9  
+player4:Diamonds 2  Clubs King  
+player1 plays:Clubs Ace   
+player1:Diamonds 6  Diamonds 6  
+player2 plays:Spades Ace   
+player2:Spades Jack  Spades King  Hearts 5  Hearts 10  
+player3 plays:Spades Jack  
+player3:Diamonds 5  Diamonds 8  Diamonds 10  Clubs 3  
+player 4, your turn is skipped
+player1 draw card:Clubs 10  
+player1:Diamonds 6  Diamonds 6  Clubs 10  
+player2 plays:Spades Jack  
+player2:Spades King  Hearts 5  Hearts 10  
+player 3, your turn is skipped
+player4 draw card:Clubs 7  
+player4:Diamonds 2  Clubs 7  Clubs King  
+player1 draw card:Clubs 4  
+player1:Diamonds 6  Diamonds 6  Clubs 4  Clubs 10  
+player2 plays:Spades King  
+player2:Hearts 5  Hearts 10  
+player3 draw card:Clubs 6  
+player3:Diamonds 5  Diamonds 8  Diamonds 10  Clubs 3  Clubs 6  
+player4 plays:Clubs King  
+player4:Diamonds 2  Clubs 7  
+player1 plays:Clubs 4  
+player1:Diamonds 6  Diamonds 6  Clubs 10  
+player2 draw card:Hearts 2  
+player2:Hearts 2  Hearts 5  Hearts 10  
+player3 plays:Clubs 3  
+player3:Diamonds 5  Diamonds 8  Diamonds 10  Clubs 6  
+player4 plays:Clubs 7  
+player4:Diamonds 2  
+player1 plays:Clubs 10  
+player1:Diamonds 6  Diamonds 6  
+player2 plays:Hearts 10  
+player2:Hearts 2  Hearts 5  
+player3 plays:Diamonds 10  
+player3:Diamonds 5  Diamonds 8  Clubs 6  
+player4 plays:Diamonds 2  
+player4:
+end round
+Filelog name:1.
+Player number:4.
+Initial card number:4.
+Desk of card(52cards each):2.
+Game round:3.
+ROUND2
+
+initilize...
+shuffling...
+Clubs Queen Diamonds 10  Clubs 7  Clubs King  Diamonds 6  Diamonds King  Spades 2  Diamonds 10  Clubs 5  Hearts Ace   Spades 3  Clubs 2  Hearts 2  Clubs 2  Clubs 3  Hearts 2  Clubs Jack  Spades 5  Clubs 8  Diamonds 7  Diamonds 5  Clubs Jack  Diamonds 7  Diamonds Queen Hearts 4  Spades 7  Diamonds 3  Clubs 4  Clubs 5  Spades 4  Spades Ace   Diamonds 8  Spades Queen Spades King  Hearts 4  Hearts 8  Spades 10  Hearts King  Diamonds 9  Hearts 3  Hearts 6  Clubs King  Spades 9  Hearts 8  Diamonds Jack  Hearts Queen Diamonds 4  Diamonds 9  Spades Queen Clubs 8  Hearts 7  Spades 3  Diamonds 3  Hearts Ace   Diamonds 6  Spades Ace   Diamonds King  Hearts 5  Spades 5  Clubs Ace   Spades 8  Hearts 9  Spades 2  Clubs Ace   Diamonds 5  Spades King  Clubs 9  Hearts 9  Clubs 6  Clubs 9  Spades 8  Clubs 4  Hearts 6  Hearts 5  Clubs 7  Spades 10  Clubs Queen Hearts 10  Spades 6  Hearts 3  Hearts King  Hearts Queen Clubs 10  Diamonds Ace   Diamonds 2  Spades 4  Diamonds 8  Hearts 7  Diamonds Ace   Diamonds Queen Spades 6  Diamonds 4  Spades 9  Clubs 6  Hearts Jack  Hearts 10  Hearts Jack  Clubs 3  Diamonds Jack  Spades Jack  Spades Jack  Clubs 10  Diamonds 2  Spades 7  
+dealing with cards...
+Player1:Hearts 2  Diamonds 6  Clubs 5  Clubs Queen 
+Player2:Hearts Ace   Diamonds 10  Diamonds King  Clubs 2  
+Player3:Spades 2  Spades 3  Clubs 3  Clubs 7  
+Player4:Hearts 2  Diamonds 10  Clubs 2  Clubs King  
+deciding the first one...
+Player1:Clubs Jack  
+Player2:Spades 5  
+Player3:Clubs 8  
+Player4:Diamonds 7  
+start at player1
+.start at card:Diamonds 5  
+player1 plays:Diamonds 6  
+player1:Hearts 2  Clubs 5  Clubs Queen 
+player2 plays:Diamonds 10  
+player2:Hearts Ace   Diamonds King  Clubs 2  
+player3 draw card:Clubs Jack  
+player3:Spades 2  Spades 3  Clubs 3  Clubs 7  Clubs Jack  
+player4 plays:Diamonds 10  
+player4:Hearts 2  Clubs 2  Clubs King  
+player1 draw card:Diamonds 7  
+player1:Hearts 2  Diamonds 7  Clubs 5  Clubs Queen 
+player2 plays:Diamonds King  
+player2:Hearts Ace   Clubs 2  
+player3 draw card:Diamonds Queen 
+player3:Spades 2  Spades 3  Diamonds Queen Clubs 3  Clubs 7  Clubs Jack  
+player4 plays:Clubs King  
+player4:Hearts 2  Clubs 2  
+player1 plays:Clubs 5  
+player1:Hearts 2  Diamonds 7  Clubs Queen 
+player2 plays:Clubs 2  
+player2:Hearts Ace   
+player3 plays:Spades 2  
+player3:Spades 3  Diamonds Queen Clubs 3  Clubs 7  Clubs Jack  
+player4 plays:Hearts 2  
+player4:Clubs 2  
+player1 plays:Hearts 2  
+player1:Diamonds 7  Clubs Queen 
+player2 plays:Hearts Ace   
+player2 draw card:player2:
+Hearts 4  Spades 7  Diamonds 3  Clubs 4  Clubs 5  Spades 4  Spades Ace   Diamonds 8  player2:Spades 4  Spades 7  Spades Ace   Hearts 4  Diamonds 3  Diamonds 8  Clubs 4  Clubs 5  
+
+player3 draw card:Spades Queen 
+player3:Spades 3  Spades Queen Diamonds Queen Clubs 3  Clubs 7  Clubs Jack  
+player4 draw card:Spades King  
+player4:Spades King  Clubs 2  
+player1 draw card:Hearts 4  
+player1:Hearts 4  Diamonds 7  Clubs Queen 
+player2 plays:Spades Ace   
+player2:Spades 4  Spades 7  Hearts 4  Diamonds 3  Diamonds 8  Clubs 4  Clubs 5  
+player3 plays:Spades 3  
+player3:Spades Queen Diamonds Queen Clubs 3  Clubs 7  Clubs Jack  
+player4 plays:Spades King  
+player4 draw card:player4:Clubs 2  
+Hearts 8  Spades 10  Hearts King  player4:Spades 10  Hearts 8  Hearts King  Clubs 2  
+
+player1 draw card:Diamonds 9  
+player1:Hearts 4  Diamonds 7  Diamonds 9  Clubs Queen 
+player2 plays:Spades 4  
+player2:Spades 7  Hearts 4  Diamonds 3  Diamonds 8  Clubs 4  Clubs 5  
+player3 plays:Spades Queen 
+change direction!
+player3:Diamonds Queen Clubs 3  Clubs 7  Clubs Jack  
+player2 plays:Spades 7  
+player2:Hearts 4  Diamonds 3  Diamonds 8  Clubs 4  Clubs 5  
+player1 plays:Diamonds 7  
+player1:Hearts 4  Diamonds 9  Clubs Queen 
+player4 draw card:Hearts 3  
+player4:Spades 10  Hearts 3  Hearts 8  Hearts King  Clubs 2  
+player3 plays:Diamonds Queen 
+change direction!
+player3:Clubs 3  Clubs 7  Clubs Jack  
+player4 draw card:Hearts 6  
+player4:Spades 10  Hearts 3  Hearts 6  Hearts 8  Hearts King  Clubs 2  
+player1 plays:Diamonds 9  
+player1:Hearts 4  Clubs Queen 
+player2 plays:Diamonds 3  
+player2:Hearts 4  Diamonds 8  Clubs 4  Clubs 5  
+player3 plays:Clubs 3  
+player3:Clubs 7  Clubs Jack  
+player4 plays:Hearts 3  
+player4:Spades 10  Hearts 6  Hearts 8  Hearts King  Clubs 2  
+player1 plays:Hearts 4  
+player1 draw card:player1:Clubs Queen 
+Clubs King  Spades 9  Hearts 8  Diamonds Jack  Hearts Queen Diamonds 4  Diamonds 9  Spades Queen Clubs 8  player1:Spades 9  Spades Queen Hearts 8  Hearts Queen Diamonds 4  Diamonds 9  Diamonds Jack  Clubs 8  Clubs Queen Clubs King  
+
+player2 plays:Hearts 4  
+player2:Diamonds 8  Clubs 4  Clubs 5  
+player3 draw card:Hearts 7  
+player3:Hearts 7  Clubs 7  Clubs Jack  
+player4 plays:Hearts 6  
+player4:Spades 10  Hearts 8  Hearts King  Clubs 2  
+player1 plays:Hearts 8  
+player1:Spades 9  Spades Queen Hearts Queen Diamonds 4  Diamonds 9  Diamonds Jack  Clubs 8  Clubs Queen Clubs King  
+player2 plays:Diamonds 8  
+player2:Clubs 4  Clubs 5  
+player3 draw card:Spades 3  
+player3:Spades 3  Hearts 7  Clubs 7  Clubs Jack  
+player4 plays:Hearts 8  
+player4:Spades 10  Hearts King  Clubs 2  
+player1 plays:Hearts Queen 
+change direction!
+player1:Spades 9  Spades Queen Diamonds 4  Diamonds 9  Diamonds Jack  Clubs 8  Clubs Queen Clubs King  
+player4 plays:Hearts King  
+player4:Spades 10  Clubs 2  
+player3 plays:Hearts 7  
+player3:Spades 3  Clubs 7  Clubs Jack  
+player2 draw card:Diamonds 3  
+player2:Diamonds 3  Clubs 4  Clubs 5  
+player1 draw card:Hearts Ace   
+player1:Spades 9  Spades Queen Hearts Ace   Diamonds 4  Diamonds 9  Diamonds Jack  Clubs 8  Clubs Queen Clubs King  
+player4 draw card:Diamonds 6  
+player4:Spades 10  Diamonds 6  Clubs 2  
+player3 plays:Clubs 7  
+player3:Spades 3  Clubs Jack  
+player2 plays:Clubs 4  
+player2:Diamonds 3  Clubs 5  
+player1 plays:Diamonds 4  
+player1:Spades 9  Spades Queen Hearts Ace   Diamonds 9  Diamonds Jack  Clubs 8  Clubs Queen Clubs King  
+player4 plays:Diamonds 6  
+player4:Spades 10  Clubs 2  
+player3 draw card:Spades Ace   
+player3:Spades 3  Spades Ace   Clubs Jack  
+player2 plays:Diamonds 3  
+player2:Clubs 5  
+player1 plays:Diamonds 9  
+player1 draw card:player1:Spades 9  Spades Queen Hearts Ace   Diamonds Jack  Clubs 8  Clubs Queen Clubs King  
+Diamonds King  Hearts 5  Spades 5  player1:Spades 5  Spades 9  Spades Queen Hearts 5  Hearts Ace   Diamonds Jack  Diamonds King  Clubs 8  Clubs Queen Clubs King  
+
+player4 draw card:Clubs Ace   
+player4:Spades 10  Clubs 2  Clubs Ace   
+player3 draw card:Spades 8  
+player3:Spades 3  Spades 8  Spades Ace   Clubs Jack  
+player2 draw card:Hearts 9  
+player2:Hearts 9  Clubs 5  
+player1 plays:Spades 9  
+player1:Spades 5  Spades Queen Hearts 5  Hearts Ace   Diamonds Jack  Diamonds King  Clubs 8  Clubs Queen Clubs King  
+player4 plays:Spades 10  
+player4:Clubs 2  Clubs Ace   
+player3 plays:Spades 3  
+player3:Spades 8  Spades Ace   Clubs Jack  
+player2 draw card:Spades 2  Clubs Ace   Diamonds 5  
+player2:Spades 2  Hearts 9  Diamonds 5  Clubs 5  Clubs Ace   
+player2 plays:Spades 2  
+player2:Hearts 9  Diamonds 5  Clubs 5  Clubs Ace   
+player1 plays:Spades 5  
+player1 draw card:player1:Spades Queen Hearts 5  Hearts Ace   Diamonds Jack  Diamonds King  Clubs 8  Clubs Queen Clubs King  
+Spades King  Clubs 9  player1:Spades Queen Spades King  Hearts 5  Hearts Ace   Diamonds Jack  Diamonds King  Clubs 8  Clubs 9  Clubs Queen Clubs King  
+
+player4 draw card:Hearts 9  
+player4:Hearts 9  Clubs 2  Clubs Ace   
+player3 plays:Spades 8  
+player3:Spades Ace   Clubs Jack  
+player2 draw card:Clubs 6  
+player2:Hearts 9  Diamonds 5  Clubs 5  Clubs 6  Clubs Ace   
+player1 plays:Spades Queen 
+change direction!
+player1:Spades King  Hearts 5  Hearts Ace   Diamonds Jack  Diamonds King  Clubs 8  Clubs 9  Clubs Queen Clubs King  
+player2 draw card:Clubs 9  
+player2:Hearts 9  Diamonds 5  Clubs 5  Clubs 6  Clubs 9  Clubs Ace   
+player3 plays:Spades Ace   
+player3:Clubs Jack  
+player4 plays:Clubs Ace   
+player4:Hearts 9  Clubs 2  
+player1 plays:Hearts Ace   
+player1:Spades King  Hearts 5  Diamonds Jack  Diamonds King  Clubs 8  Clubs 9  Clubs Queen Clubs King  
+player2 plays:Hearts 9  
+player2:Diamonds 5  Clubs 5  Clubs 6  Clubs 9  Clubs Ace   
+player3 draw card:Spades 8  
+player3:Spades 8  Clubs Jack  
+player4 plays:Hearts 9  
+player4:Clubs 2  
+player1 plays:Hearts 5  
+player1:Spades King  Diamonds Jack  Diamonds King  Clubs 8  Clubs 9  Clubs Queen Clubs King  
+player2 plays:Diamonds 5  
+player2:Clubs 5  Clubs 6  Clubs 9  Clubs Ace   
+player3 draw card:Clubs 4  
+player3:Spades 8  Clubs 4  Clubs Jack  
+player4 draw card:Hearts 6  
+player4:Hearts 6  Clubs 2  
+player1 plays:Diamonds Jack  
+player1:Spades King  Diamonds King  Clubs 8  Clubs 9  Clubs Queen Clubs King  
+player 2, your turn is skipped
+player3 plays:Clubs Jack  
+player3:Spades 8  Clubs 4  
+player 4, your turn is skipped
+player1 plays:Clubs 8  
+player1:Spades King  Diamonds King  Clubs 9  Clubs Queen Clubs King  
+player2 plays:Clubs 5  
+player2:Clubs 6  Clubs 9  Clubs Ace   
+player3 plays:Clubs 4  
+player3:Spades 8  
+player4 plays:Clubs 2  
+player4:Hearts 6  
+player1 plays:Clubs 9  
+player1 draw card:player1:Spades King  Diamonds King  Clubs Queen Clubs King  
+Hearts 5  Clubs 7  player1:Spades King  Hearts 5  Diamonds King  Clubs 7  Clubs Queen Clubs King  
+
+player2 plays:Clubs 6  
+player2:Clubs 9  Clubs Ace   
+player3 draw card:Spades 10  
+player3:Spades 8  Spades 10  
+player4 plays:Hearts 6  
+player4:
+end round
+Filelog name:1.
+Player number:4.
+Initial card number:4.
+Desk of card(52cards each):2.
+Game round:3.
+ROUND3
+
+initilize...
+shuffling...
+Hearts Jack  Spades 7  Hearts 2  Diamonds 8  Spades 4  Hearts 6  Diamonds 5  Diamonds 2  Spades 10  Diamonds Jack  Clubs 8  Clubs Jack  Hearts 10  Hearts 4  Clubs 10  Hearts 8  Hearts 3  Clubs 3  Spades 7  Hearts 9  Hearts 9  Clubs 7  Diamonds 8  Diamonds 7  Hearts Jack  Hearts 4  Spades 8  Spades 4  Clubs 8  Spades 2  Hearts Ace   Clubs Ace   Spades King  Diamonds 6  Spades Ace   Spades 9  Hearts Queen Spades 3  Spades 5  Spades Queen Diamonds 3  Diamonds 9  Hearts 10  Hearts 2  Spades 5  Clubs 5  Clubs Ace   Spades Jack  Spades Queen Spades 6  Spades 9  Spades King  Diamonds Queen Spades 8  Spades 6  Diamonds 6  Hearts 5  Diamonds Jack  Clubs 6  Clubs 9  Clubs 9  Clubs 2  Diamonds Ace   Clubs King  Spades 2  Clubs 7  Clubs 2  Hearts 8  Clubs 3  Spades Ace   Hearts King  Hearts 7  Spades Jack  Clubs 10  Clubs Queen Diamonds 10  Hearts 3  Clubs Jack  Diamonds 10  Hearts 5  Diamonds 3  Diamonds 7  Diamonds 5  Hearts Ace   Clubs Queen Diamonds Queen Hearts 7  Clubs 5  Spades 3  Diamonds Ace   Clubs 6  Diamonds King  Clubs King  Diamonds 4  Diamonds King  Hearts 6  Hearts Queen Diamonds 2  Clubs 4  Spades 10  Clubs 4  Diamonds 9  Hearts King  Diamonds 4  
+dealing with cards...
+Player1:Spades 4  Spades 10  Hearts 10  Hearts Jack  
+Player2:Spades 7  Hearts 4  Hearts 6  Diamonds Jack  
+Player3:Hearts 2  Diamonds 5  Clubs 8  Clubs 10  
+Player4:Hearts 8  Diamonds 2  Diamonds 8  Clubs Jack  
+deciding the first one...
+Player1:Hearts 3  
+Player2:Clubs 3  
+Player3:Spades 7  
+Player4:Hearts 9  
+start at player2
+.start at card:Hearts 9  
+player2 plays:Hearts 4  
+player2:Spades 7  Hearts 6  Diamonds Jack  
+player3 plays:Hearts 2  
+player3:Diamonds 5  Clubs 8  Clubs 10  
+player4 plays:Hearts 8  
+player4 draw card:player4:Diamonds 2  Diamonds 8  Clubs Jack  
+Clubs 7  Diamonds 8  player4:Diamonds 2  Diamonds 8  Diamonds 8  Clubs 7  Clubs Jack  
+
+player1 plays:Hearts 10  
+player1:Spades 4  Spades 10  Hearts Jack  
+player2 plays:Hearts 6  
+player2:Spades 7  Diamonds Jack  
+player3 draw card:Diamonds 7  
+player3:Diamonds 5  Diamonds 7  Clubs 8  Clubs 10  
+player4 draw card:Hearts Jack  
+player4:Hearts Jack  Diamonds 2  Diamonds 8  Diamonds 8  Clubs 7  Clubs Jack  
+player1 plays:Hearts Jack  
+player1:Spades 4  Spades 10  
+player 2, your turn is skipped
+player3 draw card:Hearts 4  
+player3:Hearts 4  Diamonds 5  Diamonds 7  Clubs 8  Clubs 10  
+player4 plays:Hearts Jack  
+player4:Diamonds 2  Diamonds 8  Diamonds 8  Clubs 7  Clubs Jack  
+player 1, your turn is skipped
+player2 plays:Diamonds Jack  
+player2:Spades 7  
+player 3, your turn is skipped
+player4 plays:Diamonds 2  
+player4:Diamonds 8  Diamonds 8  Clubs 7  Clubs Jack  
+player1 draw card:Spades 8  Spades 4  
+player1:Spades 4  Spades 4  Spades 8  Spades 10  
+player1 draw card:Clubs 8  
+player1:Spades 4  Spades 4  Spades 8  Spades 10  Clubs 8  
+player2 draw card:Spades 2  
+player2:Spades 2  Spades 7  
+player3 plays:Diamonds 5  
+player3:Hearts 4  Diamonds 7  Clubs 8  Clubs 10  
+player4 plays:Diamonds 8  
+player4:Diamonds 8  Clubs 7  Clubs Jack  
+player1 plays:Spades 8  
+player1:Spades 4  Spades 4  Spades 10  Clubs 8  
+player2 plays:Spades 2  
+player2:Spades 7  
+player3 draw card:Hearts Ace   Clubs Ace   
+player3:Hearts 4  Hearts Ace   Diamonds 7  Clubs 8  Clubs 10  Clubs Ace   
+player3 draw card:Spades King  
+player3:Spades King  Hearts 4  Hearts Ace   Diamonds 7  Clubs 8  Clubs 10  Clubs Ace   
+player4 draw card:Diamonds 6  
+player4:Diamonds 6  Diamonds 8  Clubs 7  Clubs Jack  
+player1 plays:Spades 4  
+player1:Spades 4  Spades 10  Clubs 8  
+player2 plays:Spades 7  
+player2:
+end round
+player3 score=12
+player4 score=4
+player1 score=11
+player2 score=4
+The winner of the game is:player 4 player 2 
