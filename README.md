@@ -48,3 +48,10 @@
 ### tips&&bonus
 - you can play two cards if you successfully defend a attack.(-a also can)
 - you can paint a card at the begining,and it can b called in the main.However,due to it will hard to look your cards if paint all the cards,so I decided only to paint the first card as a example.
+
+## Course Work of VG151 at UM-SJTU JI  
+
+If there are similar projects in the future, JI students are responsible for not copying or modifying these codes or files, as this would be against the Honor Code.  
+
+The owner of this repository should not be held responsible for anyone else's errors.
+
